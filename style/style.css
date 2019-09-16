@@ -1,0 +1,29 @@
+#main {
+    background-color: #ccc;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#img-div {
+    background-color: white;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+
+#image {
+    width: 60%;
+}
+
+#tribute-info li {
+    width: 40%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+#tribute-info a {
+    display: inline;
+}
